@@ -1,4 +1,5 @@
-﻿from __future__ import print_function
+﻿#coding : utf-8
+from __future__ import print_function
 #comment your code !!!
 print('hello world')
 aa = raw_input("I'm sorry, I don't understand. Choose your language :")
